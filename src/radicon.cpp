@@ -1,3 +1,8 @@
+/*
+  Radicon sample for RaspberryPi (and some other linux-based system)
+
+  Coded by Yasuhiro ISHII,2013
+*/
 #include <stdio.h>
 #include <unistd.h>
 #include <linux/input.h>

@@ -1,3 +1,8 @@
+/*
+  TI's DRV8830 device driver
+
+  Coded by Yasuhiro ISHII
+*/
 #ifndef __DRV8830_H__
 #define __DRV8830_H__
 

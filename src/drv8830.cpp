@@ -1,3 +1,9 @@
+/*
+  TI's DRV8830 device driver
+
+  Coded by Yasuhiro ISHII
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/ioctl.h>
